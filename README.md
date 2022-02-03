@@ -7,6 +7,7 @@ A tecnologia me fascina cada vez mais
 • estou disponível para contratação 💻
 
 ![devtiago GitHub stats](https://github-readme-stats.vercel.app/api?username=iTiaguera&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTiaguera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens
 
